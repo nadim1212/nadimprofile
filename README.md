@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadim Mahmud</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Alien LifeStyle](https://alienbd.com/)
-
 - 🌱 I’m currently learning **MERN Stack Technology specially focused on frontend**
 
 - 💬 Ask me about **React,Redux,Typescript**
